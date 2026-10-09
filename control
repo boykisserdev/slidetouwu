@@ -1,0 +1,9 @@
+Package: uwu.boykisserdev.slidetouwu
+Name: slidetouwu
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Changes iOS 6 slide to unlock text to slide to uwu :33
+Maintainer: boykisserdev
+Author: boykisserdev
+Section: Tweaks
+Depends: mobilesubstrate
